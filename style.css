@@ -1,6 +1,7 @@
 div{
     display: flex;
     margin: 25px;
+    flex-direction: column;
 }
 button{
     margin: 25px;
