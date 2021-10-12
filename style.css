@@ -1,3 +1,7 @@
 div{
-    display: block;
+    display: flex;
+    margin: 25px;
+}
+button{
+    margin: 25px;
 }
